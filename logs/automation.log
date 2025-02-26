@@ -1,0 +1,38 @@
+2025-02-25 15:20:16 INFO  TC001_AccountRegistractionTest:23 - *****Starting TC001_AccountRegistractionTest***** 
+2025-02-25 15:20:21 INFO  TC001_AccountRegistractionTest:30 - Clicked on Registeration Button
+2025-02-25 15:20:22 INFO  TC001_AccountRegistractionTest:41 - Validating Message
+2025-02-25 15:20:27 ERROR TC001_AccountRegistractionTest:49 - Test Failed
+2025-02-25 15:20:27 DEBUG TC001_AccountRegistractionTest:50 - Debug logs
+2025-02-25 15:21:12 INFO  TC002_LoginTest:20 - ****TC002_LoginTestStarted****
+2025-02-25 15:21:12 ERROR TC002_LoginTest:41 - Test Failed
+2025-02-25 15:21:12 DEBUG TC002_LoginTest:42 - Debug error
+2025-02-25 15:41:58 INFO  TC001_AccountRegistractionTest:23 - *****Starting TC001_AccountRegistractionTest***** 
+2025-02-25 15:42:00 INFO  TC001_AccountRegistractionTest:30 - Clicked on Registeration Button
+2025-02-25 15:42:00 INFO  TC001_AccountRegistractionTest:41 - Validating Message
+2025-02-25 15:42:06 INFO  TC001_AccountRegistractionTest:62 - ******Finished TC001_AccountRegistractionTest****
+2025-02-25 15:42:13 INFO  TC002_LoginTest:20 - ****TC002_LoginTestStarted****
+2025-02-25 15:42:15 INFO  TC002_LoginTest:26 - ****LoginPage*****
+2025-02-25 15:42:15 INFO  TC002_LoginTest:33 - Validating We are not correct Page
+2025-02-25 15:42:21 INFO  TC002_LoginTest:48 - Test completed
+2025-02-25 20:31:10 INFO  TC001_AccountRegistractionTest:23 - *****Starting TC001_AccountRegistractionTest***** 
+2025-02-25 20:31:11 INFO  TC001_AccountRegistractionTest:30 - Clicked on Registeration Button
+2025-02-25 20:31:19 INFO  TC002_LoginTest:20 - ****TC002_LoginTestStarted****
+2025-02-25 20:31:21 INFO  TC002_LoginTest:26 - ****LoginPage*****
+2025-02-25 20:31:21 INFO  TC002_LoginTest:33 - Validating We are not correct Page
+2025-02-25 20:31:27 INFO  TC002_LoginTest:48 - Test completed
+2025-02-25 20:36:16 INFO  TC001_AccountRegistractionTest:23 - *****Starting TC001_AccountRegistractionTest***** 
+2025-02-25 20:36:18 INFO  TC001_AccountRegistractionTest:30 - Clicked on Registeration Button
+2025-02-25 20:36:19 INFO  TC001_AccountRegistractionTest:41 - Validating Message
+2025-02-25 20:36:24 INFO  TC001_AccountRegistractionTest:62 - ******Finished TC001_AccountRegistractionTest****
+2025-02-25 20:36:30 INFO  TC002_LoginTest:20 - ****TC002_LoginTestStarted****
+2025-02-25 20:36:31 INFO  TC002_LoginTest:26 - ****LoginPage*****
+2025-02-25 20:36:32 INFO  TC002_LoginTest:33 - Validating We are not correct Page
+2025-02-25 20:36:37 INFO  TC002_LoginTest:48 - Test completed
+2025-02-25 20:43:22 INFO  TC001_AccountRegistractionTest:23 - *****Starting TC001_AccountRegistractionTest***** 
+2025-02-25 20:43:24 INFO  TC001_AccountRegistractionTest:30 - Clicked on Registeration Button
+2025-02-25 20:43:26 INFO  TC001_AccountRegistractionTest:41 - Validating Message
+2025-02-25 20:43:31 INFO  TC001_AccountRegistractionTest:62 - ******Finished TC001_AccountRegistractionTest****
+2025-02-25 20:43:36 INFO  TC002_LoginTest:20 - ****TC002_LoginTestStarted****
+2025-02-25 20:43:38 INFO  TC002_LoginTest:26 - ****LoginPage*****
+2025-02-25 20:43:39 INFO  TC002_LoginTest:33 - Validating We are not correct Page
+2025-02-25 20:43:44 INFO  TC002_LoginTest:48 - Test completed
